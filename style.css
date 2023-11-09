@@ -13,14 +13,13 @@ body{
     overflow: hidden;
 }
 .container{
-    /* width: 246px; */
     overflow: hidden;
 }
-.word{
+.text{
     position: relative;
     color: #bd6f3f;
-    font-size: 40px;
-    font-weight: 700;
+    font-size: 30px;
+    font-weight: 600;
 }
 .first-text{
     color: whitesmoke;
